@@ -10,9 +10,9 @@ The goal is to combine structured and unstructured healthcare data to enhance pr
 ---
 
 ## 👥 Team Members & Roles
-- **Ketan Barkade** – Vitals Model (ML backend, feature engineering)  
-- **Ethan** – Clinical Notes Model (ML backend, NLP pipeline)  
-- **Yugs** – UI/UX design & Research paper writing  
+- **Ethan Rebeiro** – Clinical Notes Model (ML backend, NLP pipeline)
+- **Ketan Barkade** – Vitals Model (ML backend, feature engineering)    
+- **Yugansha Kabra** – UI/UX design & Research paper writing  
 
 ---
 
